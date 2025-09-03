@@ -141,9 +141,4 @@ The script is configured by variables at the top. Key inputs:
 Author: **Stijn De Vos** (stevnBasbak) — Computational researcher at VUB
 Email: `Stijn.De.Vos@vub.be`
 
-If you want, I can also:
-
-* add an `argparse` wrapper so this becomes a CLI tool, and provide example commands,
-* create a small example dataset and a GitHub `examples/` folder with a short GitHub Action that runs the script on a tiny test system.
-
 ---
