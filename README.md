@@ -136,16 +136,6 @@ The script is configured by variables at the top. Key inputs:
 
 ---
 
-## Suggested improvements / future work
-
-* Add a CLI (e.g., `argparse`) so the user can pass variables at runtime instead of editing the script.
-* Add unit tests and a small example dataset under `examples/` to allow CI-driven checks.
-* Provide an option to produce an XYZ or MOL2 output for downstream simulation engines.
-* Improve molecule detection to work without `CONECT` (e.g., cluster atoms by proximity + bonding heuristics).
-* Add an option to keep a user-specified solvent layer thickness rather than using `mass_threshold`.
-
----
-
 ## License & Contact
 
 Author: **Stijn De Vos** (stevnBasbak) — Computational researcher at VUB
@@ -157,5 +147,3 @@ If you want, I can also:
 * create a small example dataset and a GitHub `examples/` folder with a short GitHub Action that runs the script on a tiny test system.
 
 ---
-
-*Created automatically upon request — tell me if you want the README tweaked or expanded into an examples notebook.*
