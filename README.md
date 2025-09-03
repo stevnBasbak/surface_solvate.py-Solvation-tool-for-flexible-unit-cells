@@ -1,10 +1,17 @@
 # surface\_solvate.py — Solvation tool for flexible (crooked) unit cells
 
-**One-line**: Create a solvated surface/unit cell for non-orthogonal/crystal unit cells using Packmol + OpenBabel, then filter solvent by distance and unit-cell mass fraction.
+Create a solvated surface/unit cell for non-orthogonal/crystal unit cells using Packmol + OpenBabel, then filter solvent by distance and unit-cell mass fraction.
 
 **Author:** Stijn De Vos (stevnBasbak) — Computational researcher at VUB
 
 ---
+
+
+<p align="center">
+  <img alt="cover" src="./cover.png" style="max-width:100%; height:auto;" />
+</p>
+
+
 
 ## Summary
 
